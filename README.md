@@ -12,4 +12,4 @@ This project is a portfolio of my current knowledge and skills in coding. Throug
 
 * <a href="https://github.com/DonL44/Portfolio"> Link to code repository </a>
 
-![](images/Portfolio Screenshot.png)
+![](images/portfolio.png)
